@@ -841,10 +841,6 @@
 
         /* Change li colour to match text */
 
-        .klc-vision-content2 li::marker {
-            color: azure;
-        }
-
         /* ----------------------------------------------------*/
         /* ----------------------------------------------------*/
         /* ----------------------------------------------------*/
@@ -863,7 +859,7 @@
       		rgba(0, 0, 0, 0.6)
     		),
     		/* your image */
-			url("KLC Prayer Session.webp");
+			url("Cross in Hand.jpg");
   			background-repeat: no-repeat;
   			background-attachment: fixed;
 			background-size: 100% 100%;
